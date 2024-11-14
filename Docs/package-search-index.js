@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Client"},{"l":"Game"},{"l":"Pentago"},{"l":"Player"},{"l":"Server"},{"l":"Strategy"},{"l":"Strategy.Algorithms"},{"l":"Test"}]
