@@ -4,7 +4,7 @@
 Welcome to the Orange-6 repository of the Pentago2D software product.
 <br>
 <br>
-![img.png](https://github.com/denskrlv/AlphaPentaGo/blob/main/img.png)
+![img.png](https://cdn.hepsiglobal.com/prod/media/16040/20240430/733144c0-c933-49d3-9e66-175e9d493bc4.jpg)
 
 <br>
 
